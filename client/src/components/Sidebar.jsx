@@ -145,9 +145,9 @@ const Sidebar = ({
        <Box width="350px" m="1.5rem 2rem 2rem 3rem">
          <FlexBetween color="#CFF4FC">
            <Box display="flex" alignItems="center" gap="0.5rem">
-             <img src={logo} alt="EasyPay" style={{ width: '3rem' }} />
+             <img src="https://i.ibb.co/sJmw0mvm/mainlogo.png" alt="EasyPay" style={{ width: '3rem',borderRadius:'10px' }} />
              <Typography variant="h4" fontWeight="bold" sx={{ color: 'white' }}>
-               EassyPay
+               Nagodpay
              </Typography>
            </Box>
            {/* Close button for the sidebar on mobile */}
