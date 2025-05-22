@@ -273,7 +273,7 @@ function Login() {
 
       {/* Footer */}
       <div className="mt-6 text-center text-sm text-gray-500">
-        © 2024 EassyPay. All rights reserved.
+        © 2024 Nagodpay. All rights reserved.
       </div>
     </div>
   </div>
